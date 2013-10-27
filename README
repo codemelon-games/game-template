@@ -1,0 +1,5 @@
+game-template
+================================================
+Generic code that can be copied to begin creating
+any codeMelon game. Includes external css and 
+JavaScript as well as stub customizations.
