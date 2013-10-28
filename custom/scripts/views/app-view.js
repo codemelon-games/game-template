@@ -2,7 +2,7 @@ var codeMelon = codeMelon || {};
 codeMelon.games = codeMelon.games || {}; 
 
 codeMelon.games.AppView = Backbone.View.extend({
-    initialize: function() {
+    initialize: function(options) {
         var _this = this;
 
         _.bindAll(_this,
